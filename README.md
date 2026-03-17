@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-Interface-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![License](https://img.shields.io/badge&logo=opensourceinitiative&logoColor=white)
+![License](https://img.shields.io/badge/License-Rebelo49-22c55e?style=for-the-badge&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-7c6af7?style=for-the-badge)
 
 ---
@@ -13,7 +13,7 @@
 
 > _Adiciona aqui um screenshot da app (arrasta a imagem para esta pasta e substitui o caminho abaixo)_
 
-![Preview da App](screenshot.png)
+
 
 ---
 
@@ -87,4 +87,4 @@ todo-list-app/
 
 ## 📄 Licença
 
-Pedro Rebelo © 2026 
+MIT © 2026 Pedro Rebelo
