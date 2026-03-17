@@ -87,4 +87,4 @@ todo-list-app/
 
 ## 📄 Licença
 
-MIT © 2026 Pedro Rebelo
+Pedro Rebelo © 2026
